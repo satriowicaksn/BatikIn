@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Project Capstone</string>
+    <string name="batikku">BatikIN</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="title_welcome_page">Welcome Story App.</string>
+    <string name="message_welcome_page">Please login, if dont have an account register first</string>
+    <string name="title_signup_page">Register account</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="title_login_page">Please login</string>
+    <string name="name">Name</string>
+    <string name="copyright" translatable="false">© 2023 BatikIN App</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="invalid_email">Email not valid</string>
+    <string name="invalid_password">Password min 8 character</string>
+    <string name="empty_name">Enter name</string>
+    <string name="empty_email">Enter email</string>
+    <string name="empty_password">Enter password</string>
+    <string name="empty_image">Enter image</string>
+    <string name="not_permission">Dont have permission</string>
+    <string name="language">Language</string>
+    <string name="user_name">User name</string>
+    <string name="desc">Description</string>
+    <string name="created_at">Created at</string>
+    <string name="failed_capture">Failed capture image</string>
+    <string name="failed_open_camera">Failed open camera</string>
+    <string name="empty_desc">Enter description</string>
+    <string name="dont_have_account">Dont have an account? Register</string>
+    <string name="have_account">Have an account? Login</string>
+    <string name="logout_validation">Are sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="coba_lagi">Coba Lagi</string>
+</resources>
